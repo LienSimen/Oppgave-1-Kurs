@@ -5,6 +5,8 @@ let person = {
     city: "Bergen"
 }
 
+person.age = 32 // :(
+
 console.log(person.firstName) // Simen
 console.log(person.lastName) // Lien
 console.log(person.length) // undefined
