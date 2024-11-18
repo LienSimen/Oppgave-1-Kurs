@@ -2,7 +2,8 @@ let person = {
     firstName: "Simen",
     lastName: "Lien",
     age: 31,
-    city: "Bergen"
+    city: "Bergen",
+    hobbies: ["Gaming", "Mountain hikes"]
 }
 
 person.age = 32 // :(
